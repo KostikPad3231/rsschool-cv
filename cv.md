@@ -44,5 +44,5 @@ function sum(a, b) {
 }
 
 let result = sum(1, 2);
-alert( result );
+alert(result);
 ```
